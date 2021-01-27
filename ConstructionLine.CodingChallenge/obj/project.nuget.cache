@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "q3Lthm/D61Yz9OlzjM+NRYQnWZthTkDgxpdaq9uj3A5Xs9Cpx2rCtvMAhbV2Rgzyj1zEi73oPnE3UJ+3YuNqkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\Documents\\codingchallenge-master_AndrewF\\codingchallenge-master\\codingchallenge-master\\ConstructionLine.CodingChallenge\\ConstructionLine.CodingChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

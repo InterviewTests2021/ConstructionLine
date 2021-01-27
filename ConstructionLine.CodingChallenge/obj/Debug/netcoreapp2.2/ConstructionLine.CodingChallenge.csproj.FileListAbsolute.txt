@@ -1,0 +1,17 @@
+C:\Users\andre\Downloads\codingchallenge-master\codingchallenge-master\ConstructionLine.CodingChallenge\bin\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.deps.json
+C:\Users\andre\Downloads\codingchallenge-master\codingchallenge-master\ConstructionLine.CodingChallenge\bin\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.dll
+C:\Users\andre\Downloads\codingchallenge-master\codingchallenge-master\ConstructionLine.CodingChallenge\bin\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.pdb
+C:\Users\andre\Downloads\codingchallenge-master\codingchallenge-master\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\codingchallenge-master\codingchallenge-master\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.AssemblyInfo.cs
+C:\Users\andre\Downloads\codingchallenge-master\codingchallenge-master\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\codingchallenge-master\codingchallenge-master\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.dll
+C:\Users\andre\Downloads\codingchallenge-master\codingchallenge-master\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.pdb
+C:\Users\andre\Documents\codingchallenge-master_AndrewF\codingchallenge-master\codingchallenge-master\ConstructionLine.CodingChallenge\bin\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.deps.json
+C:\Users\andre\Documents\codingchallenge-master_AndrewF\codingchallenge-master\codingchallenge-master\ConstructionLine.CodingChallenge\bin\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.dll
+C:\Users\andre\Documents\codingchallenge-master_AndrewF\codingchallenge-master\codingchallenge-master\ConstructionLine.CodingChallenge\bin\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.pdb
+C:\Users\andre\Documents\codingchallenge-master_AndrewF\codingchallenge-master\codingchallenge-master\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.csprojAssemblyReference.cache
+C:\Users\andre\Documents\codingchallenge-master_AndrewF\codingchallenge-master\codingchallenge-master\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\codingchallenge-master_AndrewF\codingchallenge-master\codingchallenge-master\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.AssemblyInfo.cs
+C:\Users\andre\Documents\codingchallenge-master_AndrewF\codingchallenge-master\codingchallenge-master\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\codingchallenge-master_AndrewF\codingchallenge-master\codingchallenge-master\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.dll
+C:\Users\andre\Documents\codingchallenge-master_AndrewF\codingchallenge-master\codingchallenge-master\ConstructionLine.CodingChallenge\obj\Debug\netcoreapp2.2\ConstructionLine.CodingChallenge.pdb
